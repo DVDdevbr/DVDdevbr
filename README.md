@@ -2,7 +2,7 @@
 
 - 📖 Estudante de Analise e Desenvolvimento de Sistemas (ADS);
 - 💻 Atalmente estudando Front End;
-- 😊 Pronomes ele/dele
+- 😊 Pronomes ele/dele;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DVD-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
